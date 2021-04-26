@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning back-end
 - 💞️ I’m looking for a job as web dev and to collaborate on a team.
-- 📫 How to reach me BemOpriasa@fb
+- 📫 How to reach me BemOpriasa@fb, engr.opriasa@gmail.com and +639267758198
 
 <!---
 EngrOpriasa/EngrOpriasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
