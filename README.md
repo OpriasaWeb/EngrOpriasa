@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngrOpriasa
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning back-end
-- 💞️ I’m looking to collaborate on small business
+- 💞️ I’m looking for a job as web dev and to collaborate on a team.
 - 📫 How to reach me BemOpriasa@fb
 
 <!---
